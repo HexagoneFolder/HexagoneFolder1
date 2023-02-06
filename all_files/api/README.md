@@ -1,8 +1,8 @@
 - Installation packages express et node: 
 
 ```bash
-sudo apt install nodejs
-sudo npm i -g express
+npm install nodejs
+npm i -g express
 ```
 
 - Installation packages lint : 
