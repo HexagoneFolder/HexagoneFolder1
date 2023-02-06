@@ -17,7 +17,7 @@ Une fois les dépendances installées, la commande "npm start permet de lancer l
 ensuite il faudra laisser ce terminal ouvert et ouvrir un autre terminal pour lancer le projet (partie front)
 
 -> partie front :
-Dans un terminal il faudra se rendre dans le dossier hexagone également à l'aide de la commande "cd", une fois dans le dossier hexagone il faudra également installer les dépendances npm avec la commande "npm install"
+Dans un terminal il faudra se rendre dans le dossier FrontApp également à l'aide de la commande "cd", une fois dans le dossier FrontApp il faudra également installer les dépendances npm avec la commande "npm install"
 Une fois les dépendances installées on peut lancer la partie front (il faut que l'api soit lancée pour que le front se lance) avec la commande "npm run dev"
 
 pour accéder à l'ensemble quand les deux parties sont lancées, il faut ouvrir un navigateur, l'app étant sur le port 3000, il faut entrer dans la barre de recherche "localhost:3000"
